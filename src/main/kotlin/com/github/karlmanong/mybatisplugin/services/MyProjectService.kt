@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.karlmanong.mybatisplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.karlmanong.mybatisplugin.MyBundle
 
 class MyProjectService(project: Project) {
 

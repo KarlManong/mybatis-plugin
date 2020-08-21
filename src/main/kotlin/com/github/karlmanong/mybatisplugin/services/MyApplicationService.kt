@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.karlmanong.mybatisplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.karlmanong.mybatisplugin.MyBundle
 
 class MyApplicationService {
 
